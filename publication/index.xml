@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Gökçe Uludoğan</title>
+    <link>https://gokceuludogan.github.io/publication/</link>
+      <atom:link href="https://gokceuludogan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Gökçe Uludoğan 2019</copyright>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://gokceuludogan.github.io/img/icon-192.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://gokceuludogan.github.io/publication/</link>
     </image>
     
   </channel>

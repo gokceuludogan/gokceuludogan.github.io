@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bandit | Gökçe Uludoğan</title>
+    <link>https://gokceuludogan.github.io/tags/bandit/</link>
+      <atom:link href="https://gokceuludogan.github.io/tags/bandit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bandit</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Gökçe Uludoğan 2019</copyright><lastBuildDate>Sat, 14 Sep 2019 20:04:10 +0300</lastBuildDate>
+    <image>
+      <url>https://gokceuludogan.github.io/img/icon-192.png</url>
+      <title>Bandit</title>
+      <link>https://gokceuludogan.github.io/tags/bandit/</link>
+    </image>
+    
+    <item>
+      <title>Interactive Music Recommender</title>
+      <link>https://gokceuludogan.github.io/project/interactive-music-recommender/</link>
+      <pubDate>Sat, 14 Sep 2019 20:04:10 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/project/interactive-music-recommender/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

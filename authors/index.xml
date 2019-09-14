@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | Gökçe Uludoğan</title>
+    <link>https://gokceuludogan.github.io/authors/</link>
+      <atom:link href="https://gokceuludogan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Gökçe Uludoğan 2019</copyright>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://gokceuludogan.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://gokceuludogan.github.io/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://gokceuludogan.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+      <guid>https://gokceuludogan.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a Teaching Assistant in &lt;a href=&#34;https://www.cmpe.boun.edu.tr/&#34; target=&#34;_blank&#34;&gt;Computer Engineering&lt;/a&gt; at &lt;a href=&#34;http://www.boun.edu.tr/en_US&#34; target=&#34;_blank&#34;&gt;Boğaziçi University&lt;/a&gt;. Also, I am studying for a MSc degree and hold a BSc degree in the same department. My research interests include &lt;strong&gt;deep learning, cheminformatics and natural language processing&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+&lt;p&gt;I am working under supervision of &lt;a href=&#34;https://www.cmpe.boun.edu.tr/~ozgur/&#34; target=&#34;_blank&#34;&gt;Arzucan Özgür&lt;/a&gt; and &lt;a href=&#34;https://che.boun.edu.tr/en/elif-ozkirimli-olmez&#34; target=&#34;_blank&#34;&gt;Elif Özkırımlı&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
