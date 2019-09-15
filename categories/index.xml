@@ -5,12 +5,20 @@
     <link>https://gokceuludogan.github.io/categories/</link>
       <atom:link href="https://gokceuludogan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Gökçe Uludoğan 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Gökçe Uludoğan 2019</copyright><lastBuildDate>Sun, 15 Sep 2019 14:10:27 +0300</lastBuildDate>
     <image>
       <url>https://gokceuludogan.github.io/img/icon-192.png</url>
       <title>Categories</title>
       <link>https://gokceuludogan.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://gokceuludogan.github.io/categories/natural-language-processing/</link>
+      <pubDate>Sun, 15 Sep 2019 14:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/categories/natural-language-processing/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
