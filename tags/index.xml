@@ -5,36 +5,12 @@
     <link>https://gokceuludogan.github.io/tags/</link>
       <atom:link href="https://gokceuludogan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Gökçe Uludoğan 2019</copyright><lastBuildDate>Sun, 15 Sep 2019 14:10:27 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Gökçe Uludoğan 2019</copyright><lastBuildDate>Sat, 14 Sep 2019 20:11:16 +0300</lastBuildDate>
     <image>
       <url>https://gokceuludogan.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://gokceuludogan.github.io/tags/</link>
     </image>
-    
-    <item>
-      <title>Natural Language Processing</title>
-      <link>https://gokceuludogan.github.io/tags/natural-language-processing/</link>
-      <pubDate>Sun, 15 Sep 2019 14:10:27 +0300</pubDate>
-      <guid>https://gokceuludogan.github.io/tags/natural-language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Turkish</title>
-      <link>https://gokceuludogan.github.io/tags/turkish/</link>
-      <pubDate>Sun, 15 Sep 2019 14:10:27 +0300</pubDate>
-      <guid>https://gokceuludogan.github.io/tags/turkish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>User Interface</title>
-      <link>https://gokceuludogan.github.io/tags/user-interface/</link>
-      <pubDate>Sun, 15 Sep 2019 14:10:27 +0300</pubDate>
-      <guid>https://gokceuludogan.github.io/tags/user-interface/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Clustering</title>
@@ -73,6 +49,94 @@
       <link>https://gokceuludogan.github.io/tags/recommendation/</link>
       <pubDate>Sat, 14 Sep 2019 20:04:10 +0300</pubDate>
       <guid>https://gokceuludogan.github.io/tags/recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gazebo</title>
+      <link>https://gokceuludogan.github.io/tags/gazebo/</link>
+      <pubDate>Fri, 28 Jun 2019 14:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/tags/gazebo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ROS</title>
+      <link>https://gokceuludogan.github.io/tags/ros/</link>
+      <pubDate>Fri, 28 Jun 2019 14:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/tags/ros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simulation</title>
+      <link>https://gokceuludogan.github.io/tags/simulation/</link>
+      <pubDate>Fri, 28 Jun 2019 14:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV</title>
+      <link>https://gokceuludogan.github.io/tags/uav/</link>
+      <pubDate>Fri, 28 Jun 2019 14:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/tags/uav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KeNet</title>
+      <link>https://gokceuludogan.github.io/tags/kenet/</link>
+      <pubDate>Wed, 24 Apr 2019 14:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/tags/kenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological Analysis</title>
+      <link>https://gokceuludogan.github.io/tags/morphological-analysis/</link>
+      <pubDate>Wed, 24 Apr 2019 14:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/tags/morphological-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological Disambiguation</title>
+      <link>https://gokceuludogan.github.io/tags/morphological-disambiguation/</link>
+      <pubDate>Wed, 24 Apr 2019 14:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/tags/morphological-disambiguation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://gokceuludogan.github.io/tags/natural-language-processing/</link>
+      <pubDate>Wed, 24 Apr 2019 14:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turkish</title>
+      <link>https://gokceuludogan.github.io/tags/turkish/</link>
+      <pubDate>Wed, 24 Apr 2019 14:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/tags/turkish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Interface</title>
+      <link>https://gokceuludogan.github.io/tags/user-interface/</link>
+      <pubDate>Wed, 24 Apr 2019 14:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/tags/user-interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word networks</title>
+      <link>https://gokceuludogan.github.io/tags/word-networks/</link>
+      <pubDate>Wed, 24 Apr 2019 14:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/tags/word-networks/</guid>
       <description></description>
     </item>
     

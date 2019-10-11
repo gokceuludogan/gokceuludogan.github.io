@@ -5,7 +5,7 @@
     <link>https://gokceuludogan.github.io/categories/</link>
       <atom:link href="https://gokceuludogan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Gökçe Uludoğan 2019</copyright><lastBuildDate>Sun, 15 Sep 2019 14:10:27 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Gökçe Uludoğan 2019</copyright><lastBuildDate>Fri, 28 Jun 2019 14:10:27 +0300</lastBuildDate>
     <image>
       <url>https://gokceuludogan.github.io/img/icon-192.png</url>
       <title>Categories</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Robotics</title>
+      <link>https://gokceuludogan.github.io/categories/robotics/</link>
+      <pubDate>Fri, 28 Jun 2019 14:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/categories/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Natural Language Processing</title>
       <link>https://gokceuludogan.github.io/categories/natural-language-processing/</link>
-      <pubDate>Sun, 15 Sep 2019 14:10:27 +0300</pubDate>
+      <pubDate>Wed, 24 Apr 2019 14:10:27 +0300</pubDate>
       <guid>https://gokceuludogan.github.io/categories/natural-language-processing/</guid>
       <description></description>
     </item>

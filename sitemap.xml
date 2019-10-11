@@ -3,51 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gokceuludogan.github.io/categories/</loc>
-    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gokceuludogan.github.io/</loc>
-    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gokceuludogan.github.io/categories/natural-language-processing/</loc>
-    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gokceuludogan.github.io/tags/natural-language-processing/</loc>
-    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gokceuludogan.github.io/publication/</loc>
-    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gokceuludogan.github.io/tags/</loc>
-    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gokceuludogan.github.io/tags/turkish/</loc>
-    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gokceuludogan.github.io/tags/user-interface/</loc>
-    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gokceuludogan.github.io/publication/user-interfaces-for-kenet/</loc>
-    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gokceuludogan.github.io/project/automatic-playlist-generator/</loc>
     <lastmod>2019-09-14T20:11:16+03:00</lastmod>
   </url>
@@ -58,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://gokceuludogan.github.io/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gokceuludogan.github.io/tags/machine-learning/</loc>
     <lastmod>2019-09-14T20:11:16+03:00</lastmod>
   </url>
@@ -65,6 +25,11 @@
   <url>
     <loc>https://gokceuludogan.github.io/project/</loc>
     <lastmod>2019-09-14T20:11:16+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/tags/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
   </url>
   
   <url>
@@ -88,11 +53,147 @@
   </url>
   
   <url>
-    <loc>https://gokceuludogan.github.io/authors/admin/</loc>
+    <loc>https://gokceuludogan.github.io/authors/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gokceuludogan.github.io/authors/</loc>
+    <loc>https://gokceuludogan.github.io/publication/acik-kaynak-suru-iha-benzetim-ortami/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/categories/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/tags/gazebo/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/authors/gokce-uludogan/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/authors/hatice-kubra-ery%C4%B1lmaz/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/authors/okan-as%C4%B1k/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/publication/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/categories/robotics/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/tags/ros/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/tags/simulation/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/tags/uav/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/authors/gokhan-ercan/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/tags/kenet/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/tags/morphological-analysis/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/tags/morphological-disambiguation/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/categories/natural-language-processing/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/tags/natural-language-processing/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/authors/olcay-taner-y%C4%B1ld%C4%B1z/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/authors/r%C4%B1za-ozcelik/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/authors/selen-parlar/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/tags/turkish/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/tags/user-interface/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/publication/user-interface-for-turkish-wordnet-kenet/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/publication/user-interfaces-for-turkish-natural-language-processing/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/tags/word-networks/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/authors/ozge-bakay/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/authors/ozlem-ergelen/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gokceuludogan.github.io/authors/admin/</loc>
   </url>
   
   <url>

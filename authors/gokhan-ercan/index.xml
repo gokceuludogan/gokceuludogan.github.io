@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gökhan Ercan | Gökçe Uludoğan</title>
+    <link>https://gokceuludogan.github.io/authors/gokhan-ercan/</link>
+      <atom:link href="https://gokceuludogan.github.io/authors/gokhan-ercan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gökhan Ercan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Gökçe Uludoğan 2019</copyright><lastBuildDate>Wed, 24 Apr 2019 14:10:27 +0300</lastBuildDate>
+    <image>
+      <url>https://gokceuludogan.github.io/img/icon-192.png</url>
+      <title>Gökhan Ercan</title>
+      <link>https://gokceuludogan.github.io/authors/gokhan-ercan/</link>
+    </image>
+    
+    <item>
+      <title>User Interfaces for Turkish Natural Language Processing</title>
+      <link>https://gokceuludogan.github.io/publication/user-interfaces-for-turkish-natural-language-processing/</link>
+      <pubDate>Wed, 24 Apr 2019 14:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/publication/user-interfaces-for-turkish-natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
