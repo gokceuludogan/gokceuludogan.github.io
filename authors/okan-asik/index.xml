@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Okan Aşık | Gökçe Uludoğan</title>
+    <link>https://cmpe.boun.edu.tr/~gokce.uludogan/authors/okan-as%C4%B1k/</link>
+      <atom:link href="https://cmpe.boun.edu.tr/~gokce.uludogan/authors/okan-as%C4%B1k/index.xml" rel="self" type="application/rss+xml" />
+    <description>Okan Aşık</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Gökçe Uludoğan 2019</copyright><lastBuildDate>Fri, 28 Jun 2019 14:10:27 +0300</lastBuildDate>
+    <image>
+      <url>https://cmpe.boun.edu.tr/~gokce.uludogan/img/icon-192.png</url>
+      <title>Okan Aşık</title>
+      <link>https://cmpe.boun.edu.tr/~gokce.uludogan/authors/okan-as%C4%B1k/</link>
+    </image>
+    
+    <item>
+      <title>Açık Kaynak Sürü İHA Benzetim Ortamı (in Turkish)</title>
+      <link>https://cmpe.boun.edu.tr/~gokce.uludogan/publication/acik-kaynak-suru-iha-benzetim-ortami/</link>
+      <pubDate>Fri, 28 Jun 2019 14:10:27 +0300</pubDate>
+      <guid>https://cmpe.boun.edu.tr/~gokce.uludogan/publication/acik-kaynak-suru-iha-benzetim-ortami/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

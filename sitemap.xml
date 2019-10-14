@@ -53,6 +53,11 @@
   </url>
   
   <url>
+    <loc>https://gokceuludogan.github.io/authors/gokce-uludogan/</loc>
+    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gokceuludogan.github.io/authors/</loc>
     <lastmod>2019-09-15T14:10:27+03:00</lastmod>
   </url>
@@ -69,11 +74,6 @@
   
   <url>
     <loc>https://gokceuludogan.github.io/tags/gazebo/</loc>
-    <lastmod>2019-09-15T14:10:27+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gokceuludogan.github.io/authors/gokce-uludogan/</loc>
     <lastmod>2019-09-15T14:10:27+03:00</lastmod>
   </url>
   
@@ -133,12 +133,12 @@
   </url>
   
   <url>
-    <loc>https://gokceuludogan.github.io/categories/natural-language-processing/</loc>
+    <loc>https://gokceuludogan.github.io/tags/natural-language-processing/</loc>
     <lastmod>2019-09-15T14:10:27+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gokceuludogan.github.io/tags/natural-language-processing/</loc>
+    <loc>https://gokceuludogan.github.io/categories/natural-language-processing/</loc>
     <lastmod>2019-09-15T14:10:27+03:00</lastmod>
   </url>
   
@@ -190,10 +190,6 @@
   <url>
     <loc>https://gokceuludogan.github.io/authors/ozlem-ergelen/</loc>
     <lastmod>2019-09-15T14:10:27+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gokceuludogan.github.io/authors/admin/</loc>
   </url>
   
   <url>
