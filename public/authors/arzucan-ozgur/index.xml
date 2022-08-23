@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arzucan Özgür | Gökçe Uludoğan</title>
+    <link>https://gokceuludogan.github.io/authors/arzucan-ozgur/</link>
+      <atom:link href="https://gokceuludogan.github.io/authors/arzucan-ozgur/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arzucan Özgür</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Gökçe Uludoğan 2022</copyright><lastBuildDate>Sun, 14 Aug 2022 16:10:27 +0300</lastBuildDate>
+    <image>
+      <url>https://gokceuludogan.github.io/img/icon-192.png</url>
+      <title>Arzucan Özgür</title>
+      <link>https://gokceuludogan.github.io/authors/arzucan-ozgur/</link>
+    </image>
+    
+    <item>
+      <title>Exploiting Pretrained Biochemical Language Models for Targeted Drug Design</title>
+      <link>https://gokceuludogan.github.io/publication/exploiting-pretrained-lms-for-targeted-drug-design/</link>
+      <pubDate>Sun, 14 Aug 2022 16:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/publication/exploiting-pretrained-lms-for-targeted-drug-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

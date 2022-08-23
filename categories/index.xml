@@ -5,12 +5,20 @@
     <link>https://gokceuludogan.github.io/categories/</link>
       <atom:link href="https://gokceuludogan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Gökçe Uludoğan 2019</copyright><lastBuildDate>Fri, 28 Jun 2019 14:10:27 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Gökçe Uludoğan 2022</copyright><lastBuildDate>Sun, 14 Aug 2022 16:10:27 +0300</lastBuildDate>
     <image>
       <url>https://gokceuludogan.github.io/img/icon-192.png</url>
       <title>Categories</title>
       <link>https://gokceuludogan.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>Cheminformatics</title>
+      <link>https://gokceuludogan.github.io/categories/cheminformatics/</link>
+      <pubDate>Sun, 14 Aug 2022 16:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/categories/cheminformatics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Robotics</title>
