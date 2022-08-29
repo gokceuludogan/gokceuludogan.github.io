@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>cheminformatics</title>
+      <title>Cheminformatics</title>
       <link>https://gokceuludogan.github.io/tags/cheminformatics/</link>
       <pubDate>Sun, 14 Aug 2022 16:10:27 +0300</pubDate>
       <guid>https://gokceuludogan.github.io/tags/cheminformatics/</guid>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>molecular-generation</title>
+      <title>Molecular Generation</title>
       <link>https://gokceuludogan.github.io/tags/molecular-generation/</link>
       <pubDate>Sun, 14 Aug 2022 16:10:27 +0300</pubDate>
       <guid>https://gokceuludogan.github.io/tags/molecular-generation/</guid>
@@ -29,7 +29,23 @@
     </item>
     
     <item>
-      <title>targeted-drug-design</title>
+      <title>Natural Language Processing</title>
+      <link>https://gokceuludogan.github.io/tags/natural-language-processing/</link>
+      <pubDate>Sun, 14 Aug 2022 16:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media Mining</title>
+      <link>https://gokceuludogan.github.io/tags/social-media-mining/</link>
+      <pubDate>Sun, 14 Aug 2022 16:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/tags/social-media-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Targeted Drug Design</title>
       <link>https://gokceuludogan.github.io/tags/targeted-drug-design/</link>
       <pubDate>Sun, 14 Aug 2022 16:10:27 +0300</pubDate>
       <guid>https://gokceuludogan.github.io/tags/targeted-drug-design/</guid>
@@ -77,38 +93,6 @@
     </item>
     
     <item>
-      <title>Gazebo</title>
-      <link>https://gokceuludogan.github.io/tags/gazebo/</link>
-      <pubDate>Fri, 28 Jun 2019 14:10:27 +0300</pubDate>
-      <guid>https://gokceuludogan.github.io/tags/gazebo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ROS</title>
-      <link>https://gokceuludogan.github.io/tags/ros/</link>
-      <pubDate>Fri, 28 Jun 2019 14:10:27 +0300</pubDate>
-      <guid>https://gokceuludogan.github.io/tags/ros/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>simulation</title>
-      <link>https://gokceuludogan.github.io/tags/simulation/</link>
-      <pubDate>Fri, 28 Jun 2019 14:10:27 +0300</pubDate>
-      <guid>https://gokceuludogan.github.io/tags/simulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UAV</title>
-      <link>https://gokceuludogan.github.io/tags/uav/</link>
-      <pubDate>Fri, 28 Jun 2019 14:10:27 +0300</pubDate>
-      <guid>https://gokceuludogan.github.io/tags/uav/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>KeNet</title>
       <link>https://gokceuludogan.github.io/tags/kenet/</link>
       <pubDate>Wed, 24 Apr 2019 14:10:27 +0300</pubDate>
@@ -129,14 +113,6 @@
       <link>https://gokceuludogan.github.io/tags/morphological-disambiguation/</link>
       <pubDate>Wed, 24 Apr 2019 14:10:27 +0300</pubDate>
       <guid>https://gokceuludogan.github.io/tags/morphological-disambiguation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing</title>
-      <link>https://gokceuludogan.github.io/tags/natural-language-processing/</link>
-      <pubDate>Wed, 24 Apr 2019 14:10:27 +0300</pubDate>
-      <guid>https://gokceuludogan.github.io/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     

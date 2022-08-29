@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>simulation | Gökçe Uludoğan</title>
-    <link>https://gokceuludogan.github.io/tags/simulation/</link>
-      <atom:link href="https://gokceuludogan.github.io/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.cmpe.boun.edu.tr/~gokce.uludogan/tags/simulation/</link>
+      <atom:link href="https://www.cmpe.boun.edu.tr/~gokce.uludogan/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
     <description>simulation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Gökçe Uludoğan 2022</copyright><lastBuildDate>Fri, 28 Jun 2019 14:10:27 +0300</lastBuildDate>
     <image>
-      <url>https://gokceuludogan.github.io/img/icon-192.png</url>
+      <url>https://www.cmpe.boun.edu.tr/~gokce.uludogan/img/icon-192.png</url>
       <title>simulation</title>
-      <link>https://gokceuludogan.github.io/tags/simulation/</link>
+      <link>https://www.cmpe.boun.edu.tr/~gokce.uludogan/tags/simulation/</link>
     </image>
     
     <item>
       <title>Açık Kaynak Sürü İHA Benzetim Ortamı (in Turkish)</title>
-      <link>https://gokceuludogan.github.io/publication/acik-kaynak-suru-iha-benzetim-ortami/</link>
+      <link>https://www.cmpe.boun.edu.tr/~gokce.uludogan/publication/acik-kaynak-suru-iha-benzetim-ortami/</link>
       <pubDate>Fri, 28 Jun 2019 14:10:27 +0300</pubDate>
-      <guid>https://gokceuludogan.github.io/publication/acik-kaynak-suru-iha-benzetim-ortami/</guid>
+      <guid>https://www.cmpe.boun.edu.tr/~gokce.uludogan/publication/acik-kaynak-suru-iha-benzetim-ortami/</guid>
       <description></description>
     </item>
     

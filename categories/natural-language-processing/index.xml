@@ -5,12 +5,20 @@
     <link>https://gokceuludogan.github.io/categories/natural-language-processing/</link>
       <atom:link href="https://gokceuludogan.github.io/categories/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Natural Language Processing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Gökçe Uludoğan 2022</copyright><lastBuildDate>Wed, 24 Apr 2019 14:10:27 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Gökçe Uludoğan 2022</copyright><lastBuildDate>Sun, 14 Aug 2022 16:10:27 +0300</lastBuildDate>
     <image>
       <url>https://gokceuludogan.github.io/img/icon-192.png</url>
       <title>Natural Language Processing</title>
       <link>https://gokceuludogan.github.io/categories/natural-language-processing/</link>
     </image>
+    
+    <item>
+      <title>BOUN-TABI@SMM4H&#39;22: Text-to-Text Adverse Drug Event Extraction with Data Balancing and Prompting</title>
+      <link>https://gokceuludogan.github.io/publication/text-to-text-adverse-drug-event-extraction-with-data-balancing-and-prompting/</link>
+      <pubDate>Sun, 14 Aug 2022 16:10:27 +0300</pubDate>
+      <guid>https://gokceuludogan.github.io/publication/text-to-text-adverse-drug-event-extraction-with-data-balancing-and-prompting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>User Interface for Turkish Word Network KeNet</title>
