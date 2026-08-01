@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Gökçe Uludoğan monogram</title>
+  <desc id="desc">The initials GU over an abstract protein-chain motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#245b9e"/>
+      <stop offset="1" stop-color="#132f52"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="200" fill="url(#bg)"/>
+  <path d="M58 272c49-106 83 29 135-70s91 18 149-73" fill="none" stroke="#9db9db" stroke-width="9" stroke-linecap="round" opacity=".9"/>
+  <g fill="#ffffff" font-family="Georgia,serif" font-size="126" font-weight="700" text-anchor="middle">
+    <text x="200" y="239">GU</text>
+  </g>
+  <g fill="#9db9db">
+    <circle cx="58" cy="272" r="12"/><circle cx="193" cy="202" r="12"/><circle cx="342" cy="129" r="12"/>
+  </g>
+</svg>
