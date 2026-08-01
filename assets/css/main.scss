@@ -392,7 +392,13 @@ body {
     font-weight: 700;
 }
 
-.author__avatar img { background: #17365d; }
+.author__avatar img {
+    aspect-ratio: 1;
+    background: #17365d;
+    filter: brightness(.84) contrast(1.06) saturate(.86);
+    object-fit: cover;
+    object-position: center;
+}
 .author__bio { color: #5f6975; }
 
 @media (max-width: 767px) {

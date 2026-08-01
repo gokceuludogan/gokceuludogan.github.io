@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Gökçe Uludoğan"
-  avatar           : "/images/gokce-monogram.svg"
-  bio              : "PhD Candidate in Computer Engineering"
+  avatar           : "/assets/images/profile.jpg"
+  bio              : ""
   location         : "Istanbul, Türkiye"
   employer         : "Boğaziçi University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oAiBbasAAAAJ&hl=en"
-  email            : "gokce.uludogan@bogazici.edu.tr"
+  email            : "gokceuludogan@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -44,9 +44,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  linkedin         : "https://www.linkedin.com/in/gokceuludogan/"
+  dblp             : "https://dblp.org/pid/247/8748.html"
+  orcid            : "https://orcid.org/0000-0002-8684-2457"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

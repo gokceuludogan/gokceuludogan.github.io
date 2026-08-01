@@ -153,11 +153,11 @@ My work spans protein language models, graph neural networks, ontology-aware lea
 
 <span class="anchor" id="service"></span>
 
-## Service & recognition
+<!-- ## Service & recognition
 
 - **Reviewer:** ACL Rolling Review (2025–2026), International Workshop on Pattern Recognition in Healthcare Analytics (2023–2026), SIU (2022–2026), and several journals.
 - **Organizer:** HSD-2Lang shared task and organizing team member for the 7th CASE Workshop at EACL 2024.
 - **Fellowships:** ISMB 2026 and ECCB 2022 travel fellowships from ISCB.
-- **Scholarships:** TÜBİTAK Graduate Scholarships Performance Program (four award periods, 2022–2024) and National MS Scholarship (2018–2020).
+- **Scholarships:** TÜBİTAK Graduate Scholarships Performance Program (four award periods, 2022–2024) and National MS Scholarship (2018–2020). -->
 
 <span class="anchor" id="skills"></span>
