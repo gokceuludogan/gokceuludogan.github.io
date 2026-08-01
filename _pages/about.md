@@ -55,7 +55,7 @@ My work spans protein language models, graph neural networks, ontology-aware lea
   </article>
   <article class="publication">
     <div class="pub-visual"><span class="pub-tag">Mol. Informatics</span><img src="{{ '/assets/images/congen.png' | relative_url }}" alt="ConGen model overview"></div>
-    <div class="pub-body"><h3>ConGen: Targeted Molecule Generation Through Contrastive Learning and Latent Optimization</h3><p>C. Koban, <strong>G. Uludoğan</strong>, E. Özkırımlı, A. Özgür</p><p class="venue">Molecular Informatics, 45(5), e70038 · 2026</p><div class="pub-actions"><a href="https://doi.org/10.1002/minf.70038">Paper</a><a href="https://github.com/cankobanz/ConGen">Code</a><button class="copy-bibtex" type="button">Copy BibTeX</button><pre class="bibtex-source" hidden>@article{koban2026congen,
+    <div class="pub-body"><h3><a href="https://doi.org/10.1002/minf.70038">ConGen: Targeted Molecule Generation Through Contrastive Learning and Latent Optimization</a></h3><p>C. Koban, <strong>G. Uludoğan</strong>, E. Özkırımlı, A. Özgür</p><p class="venue">Molecular Informatics, 45(5), e70038 · 2026</p><div class="pub-actions"><a href="https://doi.org/10.1002/minf.70038">Paper</a><a href="https://github.com/cankobanz/ConGen">Code</a><button class="copy-bibtex" type="button">Copy BibTeX</button><pre class="bibtex-source" hidden>@article{koban2026congen,
   title={ConGen: Targeted Molecule Generation Through Contrastive Learning and Latent Optimization},
   author={Koban, C. and Uludoğan, Gökçe and Özkırımlı, E. and Özgür, A.},
   journal={Molecular Informatics}, volume={45}, number={5}, pages={e70038}, year={2026}
@@ -63,7 +63,7 @@ My work spans protein language models, graph neural networks, ontology-aware lea
   </article>
   <article class="publication">
     <div class="pub-visual"><span class="pub-tag">EMNLP 2025</span><img src="{{ '/assets/images/HATECATTR.png' | relative_url }}" alt="HATECAT-TR dataset"></div>
-    <div class="pub-body"><h3>HATECAT-TR: A Hate Speech Span Detection and Categorization Dataset for Turkish</h3><p>H. K. Şeker, <strong>G. Uludoğan</strong>, P. Önal, A. Özgür</p><p class="venue">Findings of EMNLP · 2025</p><div class="pub-actions"><a href="https://aclanthology.org/2025.findings-emnlp.1393/">Paper</a><a href="https://github.com/boun-tabi/hatecat-tr">Code</a><button class="copy-bibtex" type="button">Copy BibTeX</button><pre class="bibtex-source" hidden>@inproceedings{seker2025hatecattr,
+    <div class="pub-body"><h3><a href="https://aclanthology.org/2025.findings-emnlp.1393/">HATECAT-TR: A Hate Speech Span Detection and Categorization Dataset for Turkish</a></h3><p>H. K. Şeker, <strong>G. Uludoğan</strong>, P. Önal, A. Özgür</p><p class="venue">Findings of EMNLP · 2025</p><div class="pub-actions"><a href="https://aclanthology.org/2025.findings-emnlp.1393/">Paper</a><a href="https://github.com/boun-tabi/hatecat-tr">Code</a><button class="copy-bibtex" type="button">Copy BibTeX</button><pre class="bibtex-source" hidden>@inproceedings{seker2025hatecattr,
   title={HATECAT-TR: A Hate Speech Span Detection and Categorization Dataset for Turkish},
   author={Şeker, H. K. and Uludoğan, G. and Önal, P. and Özgür, A.},
   booktitle={Findings of EMNLP}, year={2025}
@@ -71,7 +71,7 @@ My work spans protein language models, graph neural networks, ontology-aware lea
   </article>
   <article class="publication">
     <div class="pub-visual"><span class="pub-tag">CASE 2024</span><img src="{{ '/assets/images/hsd2lang.png' | relative_url }}" alt="HSD2Lang shared task overview"></div>
-    <div class="pub-body"><h3>Overview of the Hate Speech Detection in Turkish and Arabic Tweets (HSD-2Lang) Shared Task at CASE 2024</h3><p><strong>G. Uludoğan</strong>, S. Dehghan, İ. Arın, E. Erol, B. Yanıkoğlu, A. Özgür</p><p class="venue">Proceedings of CASE, 229–233 · 2024</p><div class="pub-actions"><a href="https://aclanthology.org/2024.case-1.32/">Paper</a><a href="https://github.com/boun-tabi/case-2024-hsd-2lang">Code</a><button class="copy-bibtex" type="button">Copy BibTeX</button><pre class="bibtex-source" hidden>@inproceedings{uludogan2024hsd2lang,
+    <div class="pub-body"><h3><a href="https://aclanthology.org/2024.case-1.32/">Overview of the Hate Speech Detection in Turkish and Arabic Tweets (HSD-2Lang) Shared Task at CASE 2024</a></h3><p><strong>G. Uludoğan</strong>, S. Dehghan, İ. Arın, E. Erol, B. Yanıkoğlu, A. Özgür</p><p class="venue">Proceedings of CASE, 229–233 · 2024</p><div class="pub-actions"><a href="https://aclanthology.org/2024.case-1.32/">Paper</a><a href="https://github.com/boun-tabi/case-2024-hsd-2lang">Code</a><button class="copy-bibtex" type="button">Copy BibTeX</button><pre class="bibtex-source" hidden>@inproceedings{uludogan2024hsd2lang,
   title={Overview of the Hate Speech Detection in Turkish and Arabic Tweets (HSD-2Lang) Shared Task at CASE 2024},
   author={Uludoğan, Gökçe and Dehghan, S. and Arın, İ. and Erol, E. and Yanıkoğlu, B. and Özgür, A.},
   booktitle={Proceedings of the 7th Workshop on Challenges and Applications of Automated Extraction of Socio-Political Events from Text},
