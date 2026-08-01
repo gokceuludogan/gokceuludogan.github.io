@@ -401,6 +401,14 @@ body {
 }
 .author__bio { color: #5f6975; }
 
+.site-credit {
+    margin-top: 4rem !important;
+    padding-top: 1rem;
+    border-top: 1px solid #e3e8ef;
+    color: #78828e;
+    font-size: .72rem !important;
+}
+
 @media (max-width: 767px) {
     .research-grid { grid-template-columns: 1fr; }
     .publication { grid-template-columns: 1fr; }

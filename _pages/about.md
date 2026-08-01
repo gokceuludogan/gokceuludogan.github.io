@@ -161,3 +161,5 @@ My work spans protein language models, graph neural networks, ontology-aware lea
 - **Scholarships:** TÜBİTAK Graduate Scholarships Performance Program (four award periods, 2022–2024) and National MS Scholarship (2018–2020). -->
 
 <span class="anchor" id="skills"></span>
+
+<p class="site-credit">This website is adapted from <a href="https://github.com/RayeRen/acad-homepage.github.io">AcadHomepage</a>, with custom content and design for this site.</p>
