@@ -12,7 +12,7 @@ redirect_from:
 
 <!--<p class="eyebrow">COMPUTATIONAL BIOLOGY · MACHINE LEARNING · NLP</p>-->
 
-I am a PhD candidate in Computer Engineering at Boğaziçi University, advised by Arzucan Özgür and Elif Özkırımlı. <!--I also received my B.S. and M.S. degrees from the same department.-->
+I am a PhD candidate in Computer Engineering at Boğaziçi University, advised by [Arzucan Özgür](https://tabilab.cmpe.bogazici.edu.tr/arzucan-ozgur/) and [Elif Özkırımlı](https://scholar.google.com/citations?user=uyz9d2UAAAAJ&hl=en). I am affiliated with the [Life Language Understanding Lab (LifeLU)](https://boun-tabi-lifelu.github.io/), part of [TABILAB](https://tabilab.cmpe.bogazici.edu.tr/). <!--I also received my B.S. and M.S. degrees from the same department.-->
 
 My research focuses on machine learning for biomolecular modeling, particularly protein representation learning, function prediction, molecular generation, and the characterization of functional units in proteins.
 
